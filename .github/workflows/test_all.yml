@@ -1,0 +1,79 @@
+name: Test All
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  profile-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Create README.md
+        uses: actions-js/profile-readme@master
+        with:
+          username: ${{ github.actor }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+  github-activity-in-readme:
+    needs: profile-readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: Pull latest code
+        run: git pull origin main
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: ${{ github.actor }}
+          MAX_LINES: 10
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          EMPTY_COMMIT_MSG: "**No commits in the last 60 days💔**"
+
+  recent-github-activity-profile-readme:
+    needs: github-activity-in-readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: Pull latest code
+        run: git pull origin main
+      - uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # 这个workflow会往 zryyyy/zryyyy 这个仓库推
+  # profile-readme-development-stats:
+  #   # https://github.com/marketplace/actions/profile-readme-development-stats
+  #   needs: recent-github-activity-profile-readme
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Profile Readme Development Stats
+  #       uses: anmol098/waka-readme-stats@master
+  #       with:
+  #         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+  #         GH_TOKEN: ${{ secrets.TOKEN }}
+
+  # todo: https://github.com/marketplace/actions/profile_stack https://github.com/marketplace/actions/social-readme
+
+  # 清除老的workflow
+  delete-workflow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 7  # 设置保留7天以内的workflow runs
+          keep_minimum_runs: 3  # 每个workflow至少保留6次运行记录
