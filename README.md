@@ -1,2 +1,2 @@
-# Auto_Scripts
+# Auto Scripts
 Automated script testing project based on Github Actions
