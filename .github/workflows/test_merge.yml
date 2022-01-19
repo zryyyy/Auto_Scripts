@@ -1,0 +1,22 @@
+name: Test Merge
+on:
+  workflow_dispatch:
+
+jobs:
+  recent-github-activity-profile-readme:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+      - uses: actions/checkout@main
+      - uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create README.md
+        uses: actions-js/profile-readme@master
+        with:
+          username: zryyyy
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
