@@ -6,7 +6,7 @@ settings:
   disabled_events:
     - "comments"
   # url_text: "`{REPO}{ID}`"
-  url_text: "`{ID}` in `{REPO}`"
+  url_text: "`{REPO}`"
   date:
     timezone: "GMT+08:00"
     text: "Last Updated: `{DATE}`"
