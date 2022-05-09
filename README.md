@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Sunday, May 8th, 2022, 9:52:37 AM`
+Last Updated: `Monday, May 9th, 2022, 9:55:38 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -17,5 +17,4 @@ Last Updated: `Sunday, May 8th, 2022, 9:52:37 AM`
 7. 📔 Created new repository [`SXUUU/CDN`](https://github.com/SXUUU/CDN)
 8. 🎉 Merged PR [#4](https://github.com/zryyyy/hexo-theme-volantis/pull/4) in [`zryyyy/hexo-theme-volantis`](https://github.com/zryyyy/hexo-theme-volantis/pull/4)
 9. 💪 Opened PR [#4](https://github.com/zryyyy/hexo-theme-volantis/pull/4) in [`zryyyy/hexo-theme-volantis`](https://github.com/zryyyy/hexo-theme-volantis/pull/4)
-10. ❗️ Opened issue [#740](https://github.com/volantis-x/hexo-theme-volantis/issues/740) in [`volantis-x/hexo-theme-volantis`](https://github.com/volantis-x/hexo-theme-volantis/issues/740)
 <!--RECENT_ACTIVITY:end-->
