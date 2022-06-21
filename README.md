@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Monday, June 20th, 2022, 9:56:12 AM`
+Last Updated: `Tuesday, June 21st, 2022, 9:57:21 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -15,5 +15,4 @@ Last Updated: `Monday, June 20th, 2022, 9:56:12 AM`
 5. 🎉 Merged PR [#8](https://github.com/zryyyy/hexo-theme-volantis/pull/8) in [`zryyyy/hexo-theme-volantis`](https://github.com/zryyyy/hexo-theme-volantis/pull/8)
 6. 💪 Opened PR [#8](https://github.com/zryyyy/hexo-theme-volantis/pull/8) in [`zryyyy/hexo-theme-volantis`](https://github.com/zryyyy/hexo-theme-volantis/pull/8)
 7. ❗️ Opened issue [#761](https://github.com/volantis-x/hexo-theme-volantis/issues/761) in [`volantis-x/hexo-theme-volantis`](https://github.com/volantis-x/hexo-theme-volantis/issues/761)
-8. ⭐ Starred [`jaywcjlove/linux-command`](https://github.com/jaywcjlove/linux-command)
 <!--RECENT_ACTIVITY:end-->
