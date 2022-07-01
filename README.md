@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Thursday, June 30th, 2022, 10:04:37 AM`
+Last Updated: `Friday, July 1st, 2022, 10:18:53 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -13,5 +13,4 @@ Last Updated: `Thursday, June 30th, 2022, 10:04:37 AM`
 3. 🎉 Merged PR [#9](https://github.com/zryyyy/github-readme-stats/pull/9) in [`zryyyy/github-readme-stats`](https://github.com/zryyyy/github-readme-stats/pull/9)
 4. ❌ Closed PR [#7](https://github.com/zryyyy/hexo-theme-volantis/pull/7) in [`zryyyy/hexo-theme-volantis`](https://github.com/zryyyy/hexo-theme-volantis/pull/7)
 5. 🎉 Merged PR [#8](https://github.com/zryyyy/hexo-theme-volantis/pull/8) in [`zryyyy/hexo-theme-volantis`](https://github.com/zryyyy/hexo-theme-volantis/pull/8)
-6. 💪 Opened PR [#8](https://github.com/zryyyy/hexo-theme-volantis/pull/8) in [`zryyyy/hexo-theme-volantis`](https://github.com/zryyyy/hexo-theme-volantis/pull/8)
 <!--RECENT_ACTIVITY:end-->
