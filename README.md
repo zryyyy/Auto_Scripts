@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Wednesday, September 14th, 2022, 10:28:55 AM`
+Last Updated: `Thursday, September 15th, 2022, 10:36:13 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -12,5 +12,4 @@ Last Updated: `Wednesday, September 14th, 2022, 10:28:55 AM`
 2. ⭐ Starred [`febobo/web-interview`](https://github.com/febobo/web-interview)
 3. 🎉 Merged PR [#10](https://github.com/zryyyy/github-readme-stats/pull/10) in [`zryyyy/github-readme-stats`](https://github.com/zryyyy/github-readme-stats/pull/10)
 4. ⭐ Starred [`ui-buttons/core`](https://github.com/ui-buttons/core)
-5. ⭐ Starred [`LSPosed/LSPosed`](https://github.com/LSPosed/LSPosed)
 <!--RECENT_ACTIVITY:end-->
