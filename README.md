@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Wednesday, November 16th, 2022, 9:53:09 AM`
+Last Updated: `Thursday, November 17th, 2022, 9:51:58 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -17,5 +17,4 @@ Last Updated: `Wednesday, November 16th, 2022, 9:53:09 AM`
 7. 🔱 Forked [zryyyy/Padavan-newifi3_d2-K2P](https://github.com/zryyyy/Padavan-newifi3_d2-K2P) from [`yaya131/Padavan-newifi3_d2-K2P`](https://github.com/zryyyy/Padavan-newifi3_d2-K2P)
 8. 🔱 Forked [zryyyy/OpenWrt-X86](https://github.com/zryyyy/OpenWrt-X86) from [`xnxy2012/OpenWrt-X86`](https://github.com/zryyyy/OpenWrt-X86)
 9. ⭐ Starred [`xnxy2012/OpenWrt-X86`](https://github.com/xnxy2012/OpenWrt-X86)
-10. ⭐ Starred [`imbushuo/EnergyStar`](https://github.com/imbushuo/EnergyStar)
 <!--RECENT_ACTIVITY:end-->
