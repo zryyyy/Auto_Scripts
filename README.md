@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Friday, February 24th, 2023, 9:37:08 AM`
+Last Updated: `Saturday, February 25th, 2023, 9:38:15 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -16,5 +16,4 @@ Last Updated: `Friday, February 24th, 2023, 9:37:08 AM`
 6. ⭐ Starred [`euvl/vue-js-modal`](https://github.com/euvl/vue-js-modal)
 7. ⭐ Starred [`lusaxweb/vuesax-next`](https://github.com/lusaxweb/vuesax-next)
 8. ⭐ Starred [`view-design/ViewUIPlus`](https://github.com/view-design/ViewUIPlus)
-9. ⭐ Starred [`youzan/vant`](https://github.com/youzan/vant)
 <!--RECENT_ACTIVITY:end-->
