@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Friday, March 17th, 2023, 9:25:24 AM`
+Last Updated: `Saturday, March 18th, 2023, 9:24:37 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -16,5 +16,4 @@ Last Updated: `Friday, March 17th, 2023, 9:25:24 AM`
 6. ⭐ Starred [`tauri-apps/tauri`](https://github.com/tauri-apps/tauri)
 7. ⭐ Starred [`euvl/vue-js-modal`](https://github.com/euvl/vue-js-modal)
 8. ⭐ Starred [`lusaxweb/vuesax-next`](https://github.com/lusaxweb/vuesax-next)
-9. ⭐ Starred [`view-design/ViewUIPlus`](https://github.com/view-design/ViewUIPlus)
 <!--RECENT_ACTIVITY:end-->
