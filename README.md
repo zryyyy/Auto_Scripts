@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Sunday, April 2nd, 2023, 9:23:39 AM`
+Last Updated: `Monday, April 3rd, 2023, 9:18:00 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -16,5 +16,4 @@ Last Updated: `Sunday, April 2nd, 2023, 9:23:39 AM`
 6. ⭐ Starred [`lxgw/LxgwWenKai`](https://github.com/lxgw/LxgwWenKai)
 7. ⭐ Starred [`tailwindlabs/headlessui`](https://github.com/tailwindlabs/headlessui)
 8. ⭐ Starred [`vuejs/vitepress`](https://github.com/vuejs/vitepress)
-9. ⭐ Starred [`tauri-apps/tauri`](https://github.com/tauri-apps/tauri)
 <!--RECENT_ACTIVITY:end-->
