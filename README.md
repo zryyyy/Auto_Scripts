@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Friday, April 7th, 2023, 9:14:41 AM`
+Last Updated: `Saturday, April 8th, 2023, 9:16:24 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -14,5 +14,4 @@ Last Updated: `Friday, April 7th, 2023, 9:14:41 AM`
 4. ⭐ Starred [`snowie2000/mactype`](https://github.com/snowie2000/mactype)
 5. ⭐ Starred [`DrXie/OSFCC`](https://github.com/DrXie/OSFCC)
 6. ⭐ Starred [`lxgw/LxgwWenKai`](https://github.com/lxgw/LxgwWenKai)
-7. ⭐ Starred [`tailwindlabs/headlessui`](https://github.com/tailwindlabs/headlessui)
 <!--RECENT_ACTIVITY:end-->
