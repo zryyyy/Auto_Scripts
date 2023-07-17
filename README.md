@@ -4,18 +4,18 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Sunday, July 16th, 2023, 10:00:41 AM`
+Last Updated: `Monday, July 17th, 2023, 9:54:31 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [`LokerL/tts-vue`](https://github.com/LokerL/tts-vue)
-2. ⭐ Starred [`pipipi-pikachu/PPTist`](https://github.com/pipipi-pikachu/PPTist)
-3. ⭐ Starred [`buefy/buefy`](https://github.com/buefy/buefy)
-4. ⭐ Starred [`vueuse/vueuse`](https://github.com/vueuse/vueuse)
-5. ⭐ Starred [`Tw1ddle/geometrize`](https://github.com/Tw1ddle/geometrize)
-6. ⭐ Starred [`XingangPan/DragGAN`](https://github.com/XingangPan/DragGAN)
-7. ⭐ Starred [`AUTOMATIC1111/stable-diffusion-webui`](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-8. ⭐ Starred [`OpenBB-finance/OpenBBTerminal`](https://github.com/OpenBB-finance/OpenBBTerminal)
-9. ⭐ Starred [`sjlleo/nexttrace-core`](https://github.com/sjlleo/nexttrace-core)
-10. ⭐ Starred [`go-skynet/LocalAI`](https://github.com/go-skynet/LocalAI)
+1. ⭐ Starred [`shiyutim/tickets`](https://github.com/shiyutim/tickets)
+2. ⭐ Starred [`ClassmateLin/dm-ticket`](https://github.com/ClassmateLin/dm-ticket)
+3. ⭐ Starred [`RookieTree/DaMaiHelper`](https://github.com/RookieTree/DaMaiHelper)
+4. ⭐ Starred [`MakiNaruto/Automatic_ticket_purchase`](https://github.com/MakiNaruto/Automatic_ticket_purchase)
+5. ⭐ Starred [`LokerL/tts-vue`](https://github.com/LokerL/tts-vue)
+6. ⭐ Starred [`pipipi-pikachu/PPTist`](https://github.com/pipipi-pikachu/PPTist)
+7. ⭐ Starred [`buefy/buefy`](https://github.com/buefy/buefy)
+8. ⭐ Starred [`vueuse/vueuse`](https://github.com/vueuse/vueuse)
+9. ⭐ Starred [`Tw1ddle/geometrize`](https://github.com/Tw1ddle/geometrize)
+10. ⭐ Starred [`XingangPan/DragGAN`](https://github.com/XingangPan/DragGAN)
 <!--RECENT_ACTIVITY:end-->
