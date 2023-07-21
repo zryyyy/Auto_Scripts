@@ -4,18 +4,18 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Thursday, July 20th, 2023, 9:24:29 AM`
+Last Updated: `Friday, July 21st, 2023, 9:25:42 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [`shiyutim/tickets`](https://github.com/shiyutim/tickets)
-2. ⭐ Starred [`ClassmateLin/dm-ticket`](https://github.com/ClassmateLin/dm-ticket)
-3. ⭐ Starred [`RookieTree/DaMaiHelper`](https://github.com/RookieTree/DaMaiHelper)
-4. ⭐ Starred [`MakiNaruto/Automatic_ticket_purchase`](https://github.com/MakiNaruto/Automatic_ticket_purchase)
-5. ⭐ Starred [`LokerL/tts-vue`](https://github.com/LokerL/tts-vue)
-6. ⭐ Starred [`pipipi-pikachu/PPTist`](https://github.com/pipipi-pikachu/PPTist)
-7. ⭐ Starred [`buefy/buefy`](https://github.com/buefy/buefy)
-8. ⭐ Starred [`vueuse/vueuse`](https://github.com/vueuse/vueuse)
-9. ⭐ Starred [`Tw1ddle/geometrize`](https://github.com/Tw1ddle/geometrize)
-10. ⭐ Starred [`XingangPan/DragGAN`](https://github.com/XingangPan/DragGAN)
+1. ⭐ Starred [`antfu/sd-webui-qrcode-toolkit`](https://github.com/antfu/sd-webui-qrcode-toolkit)
+2. ⭐ Starred [`antfu/qrcode-toolkit`](https://github.com/antfu/qrcode-toolkit)
+3. ⭐ Starred [`shiyutim/tickets`](https://github.com/shiyutim/tickets)
+4. ⭐ Starred [`ClassmateLin/dm-ticket`](https://github.com/ClassmateLin/dm-ticket)
+5. ⭐ Starred [`RookieTree/DaMaiHelper`](https://github.com/RookieTree/DaMaiHelper)
+6. ⭐ Starred [`MakiNaruto/Automatic_ticket_purchase`](https://github.com/MakiNaruto/Automatic_ticket_purchase)
+7. ⭐ Starred [`LokerL/tts-vue`](https://github.com/LokerL/tts-vue)
+8. ⭐ Starred [`pipipi-pikachu/PPTist`](https://github.com/pipipi-pikachu/PPTist)
+9. ⭐ Starred [`buefy/buefy`](https://github.com/buefy/buefy)
+10. ⭐ Starred [`vueuse/vueuse`](https://github.com/vueuse/vueuse)
 <!--RECENT_ACTIVITY:end-->
