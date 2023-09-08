@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Thursday, September 7th, 2023, 9:08:19 AM`
+Last Updated: `Friday, September 8th, 2023, 9:08:35 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -17,5 +17,4 @@ Last Updated: `Thursday, September 7th, 2023, 9:08:19 AM`
 7. ⭐ Starred [`uiwjs/react-login-page`](https://github.com/uiwjs/react-login-page)
 8. ⭐ Starred [`FlowiseAI/Flowise`](https://github.com/FlowiseAI/Flowise)
 9. ⭐ Starred [`FluentHub/FluentHub`](https://github.com/FluentHub/FluentHub)
-10. ⭐ Starred [`v2rayA/v2rayA`](https://github.com/v2rayA/v2rayA)
 <!--RECENT_ACTIVITY:end-->
