@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Monday, September 11th, 2023, 9:09:13 AM`
+Last Updated: `Tuesday, September 12th, 2023, 9:06:23 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -17,5 +17,4 @@ Last Updated: `Monday, September 11th, 2023, 9:09:13 AM`
 7. ⭐ Starred [`massivemadness/Squircle-CE`](https://github.com/massivemadness/Squircle-CE)
 8. ⭐ Starred [`uiwjs/react-login-page`](https://github.com/uiwjs/react-login-page)
 9. ⭐ Starred [`FlowiseAI/Flowise`](https://github.com/FlowiseAI/Flowise)
-10. ⭐ Starred [`FluentHub/FluentHub`](https://github.com/FluentHub/FluentHub)
 <!--RECENT_ACTIVITY:end-->
