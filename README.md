@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Tuesday, September 12th, 2023, 9:06:23 AM`
+Last Updated: `Wednesday, September 13th, 2023, 9:09:16 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -15,6 +15,4 @@ Last Updated: `Tuesday, September 12th, 2023, 9:06:23 AM`
 5. ⭐ Starred [`fastapi-users/fastapi-users`](https://github.com/fastapi-users/fastapi-users)
 6. ⭐ Starred [`rapidsai/cudf`](https://github.com/rapidsai/cudf)
 7. ⭐ Starred [`massivemadness/Squircle-CE`](https://github.com/massivemadness/Squircle-CE)
-8. ⭐ Starred [`uiwjs/react-login-page`](https://github.com/uiwjs/react-login-page)
-9. ⭐ Starred [`FlowiseAI/Flowise`](https://github.com/FlowiseAI/Flowise)
 <!--RECENT_ACTIVITY:end-->
