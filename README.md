@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Wednesday, September 13th, 2023, 9:09:16 AM`
+Last Updated: `Thursday, September 14th, 2023, 9:07:34 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -13,6 +13,4 @@ Last Updated: `Wednesday, September 13th, 2023, 9:09:16 AM`
 3. ⭐ Starred [`lyswhut/lx-music-desktop`](https://github.com/lyswhut/lx-music-desktop)
 4. ⭐ Starred [`JasonWei512/EnergyStarX`](https://github.com/JasonWei512/EnergyStarX)
 5. ⭐ Starred [`fastapi-users/fastapi-users`](https://github.com/fastapi-users/fastapi-users)
-6. ⭐ Starred [`rapidsai/cudf`](https://github.com/rapidsai/cudf)
-7. ⭐ Starred [`massivemadness/Squircle-CE`](https://github.com/massivemadness/Squircle-CE)
 <!--RECENT_ACTIVITY:end-->
