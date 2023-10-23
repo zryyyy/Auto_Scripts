@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Sunday, October 22nd, 2023, 9:14:06 AM`
+Last Updated: `Monday, October 23rd, 2023, 9:09:47 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -15,5 +15,4 @@ Last Updated: `Sunday, October 22nd, 2023, 9:14:06 AM`
 5. 📔 Created new repository [`zryyyy/Cisco-Packet-Tracer-Chinese`](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
 6. ⭐ Starred [`yifeikong/reverse-interview-zh`](https://github.com/yifeikong/reverse-interview-zh)
 7. ⭐ Starred [`epidemian/snake`](https://github.com/epidemian/snake)
-8. ⭐ Starred [`tjy-gitnub/win12`](https://github.com/tjy-gitnub/win12)
 <!--RECENT_ACTIVITY:end-->
