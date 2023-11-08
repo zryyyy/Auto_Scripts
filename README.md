@@ -4,18 +4,18 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Tuesday, November 7th, 2023, 9:11:25 AM`
+Last Updated: `Wednesday, November 8th, 2023, 9:10:39 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [`warpdotdev/Warp`](https://github.com/warpdotdev/Warp)
-2. ⭐ Starred [`vercel/hyper`](https://github.com/vercel/hyper)
-3. ⭐ Starred [`youshandefeiyang/sub-web-modify`](https://github.com/youshandefeiyang/sub-web-modify)
-4. ✌️ Released [8.2.1 20231029](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/releases/tag/8.2.1(20231029)) in [`zryyyy/Cisco-Packet-Tracer-Chinese`](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/releases/tag/8.2.1(20231029))
-5. ⭐ Starred [`chenzomi12/DeepLearningSystem`](https://github.com/chenzomi12/DeepLearningSystem)
-6. ⭐ Starred [`xinychen/latex-cookbook`](https://github.com/xinychen/latex-cookbook)
-7. ⭐ Starred [`doocs/leetcode`](https://github.com/doocs/leetcode)
-8. ⭐ Starred [`AnubisNekhet/AnuPpuccin`](https://github.com/AnubisNekhet/AnuPpuccin)
-9. ⭐ Starred [`Qexo/Qexo`](https://github.com/Qexo/Qexo)
-10. ⭐ Starred [`workout-lol/workout-lol`](https://github.com/workout-lol/workout-lol)
+1. ✌️ Released [8.2.1 20231107](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/releases/tag/8.2.1(20231107)) in [`zryyyy/Cisco-Packet-Tracer-Chinese`](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/releases/tag/8.2.1(20231107))
+2. ⭐ Starred [`warpdotdev/Warp`](https://github.com/warpdotdev/Warp)
+3. ⭐ Starred [`vercel/hyper`](https://github.com/vercel/hyper)
+4. ⭐ Starred [`youshandefeiyang/sub-web-modify`](https://github.com/youshandefeiyang/sub-web-modify)
+5. ✌️ Released [8.2.1 20231029](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/releases/tag/8.2.1(20231029)) in [`zryyyy/Cisco-Packet-Tracer-Chinese`](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/releases/tag/8.2.1(20231029))
+6. ⭐ Starred [`chenzomi12/DeepLearningSystem`](https://github.com/chenzomi12/DeepLearningSystem)
+7. ⭐ Starred [`xinychen/latex-cookbook`](https://github.com/xinychen/latex-cookbook)
+8. ⭐ Starred [`doocs/leetcode`](https://github.com/doocs/leetcode)
+9. ⭐ Starred [`AnubisNekhet/AnuPpuccin`](https://github.com/AnubisNekhet/AnuPpuccin)
+10. ⭐ Starred [`Qexo/Qexo`](https://github.com/Qexo/Qexo)
 <!--RECENT_ACTIVITY:end-->
