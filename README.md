@@ -4,18 +4,18 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Friday, December 29th, 2023, 9:01:57 AM`
+Last Updated: `Saturday, December 30th, 2023, 9:09:58 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [`Nukem9/dlssg-to-fsr3`](https://github.com/Nukem9/dlssg-to-fsr3)
-2. ⭐ Starred [`gaogaotiantian/pitch-visualizer`](https://github.com/gaogaotiantian/pitch-visualizer)
-3. ⭐ Starred [`wangchenyan/ponymusic`](https://github.com/wangchenyan/ponymusic)
-4. ⭐ Starred [`miaomiaosoft/PandaOCR.Pro`](https://github.com/miaomiaosoft/PandaOCR.Pro)
-5. ⭐ Starred [`abi/screenshot-to-code`](https://github.com/abi/screenshot-to-code)
-6. ⭐ Starred [`comfyanonymous/ComfyUI`](https://github.com/comfyanonymous/ComfyUI)
-7. ⭐ Starred [`gibbok/typescript-book`](https://github.com/gibbok/typescript-book)
-8. ⭐ Starred [`ryanoasis/nerd-fonts`](https://github.com/ryanoasis/nerd-fonts)
-9. ⭐ Starred [`orhun/git-cliff`](https://github.com/orhun/git-cliff)
-10. ⭐ Starred [`lukas-blecher/LaTeX-OCR`](https://github.com/lukas-blecher/LaTeX-OCR)
+1. ⭐ Starred [`H-M-H/Weylus`](https://github.com/H-M-H/Weylus)
+2. ⭐ Starred [`maboloshi/github-chinese`](https://github.com/maboloshi/github-chinese)
+3. ⭐ Starred [`zclzone/vue-naive-admin`](https://github.com/zclzone/vue-naive-admin)
+4. ⭐ Starred [`xiaoshuapp/explorer-xiaoshu`](https://github.com/xiaoshuapp/explorer-xiaoshu)
+5. ⭐ Starred [`Nukem9/dlssg-to-fsr3`](https://github.com/Nukem9/dlssg-to-fsr3)
+6. ⭐ Starred [`gaogaotiantian/pitch-visualizer`](https://github.com/gaogaotiantian/pitch-visualizer)
+7. ⭐ Starred [`wangchenyan/ponymusic`](https://github.com/wangchenyan/ponymusic)
+8. ⭐ Starred [`miaomiaosoft/PandaOCR.Pro`](https://github.com/miaomiaosoft/PandaOCR.Pro)
+9. ⭐ Starred [`abi/screenshot-to-code`](https://github.com/abi/screenshot-to-code)
+10. ⭐ Starred [`comfyanonymous/ComfyUI`](https://github.com/comfyanonymous/ComfyUI)
 <!--RECENT_ACTIVITY:end-->
