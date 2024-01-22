@@ -4,18 +4,18 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Sunday, January 21st, 2024, 9:20:03 AM`
+Last Updated: `Monday, January 22nd, 2024, 9:17:42 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [`journey-ad/sd-webui-bilingual-localization`](https://github.com/journey-ad/sd-webui-bilingual-localization)
-2. ⭐ Starred [`lobehub/sd-webui-lobe-theme`](https://github.com/lobehub/sd-webui-lobe-theme)
-3. ⭐ Starred [`SJTU-IPADS/PowerInfer`](https://github.com/SJTU-IPADS/PowerInfer)
-4. ⭐ Starred [`cumulo-autumn/StreamDiffusion`](https://github.com/cumulo-autumn/StreamDiffusion)
-5. ⭐ Starred [`BartoszJarocki/cv`](https://github.com/BartoszJarocki/cv)
-6. ⭐ Starred [`KRTirtho/spotube`](https://github.com/KRTirtho/spotube)
-7. ⭐ Starred [`myshell-ai/OpenVoice`](https://github.com/myshell-ai/OpenVoice)
-8. ⭐ Starred [`OwO-Network/DeepLX`](https://github.com/OwO-Network/DeepLX)
-9. ⭐ Starred [`movie-web/movie-web`](https://github.com/movie-web/movie-web)
-10. ⭐ Starred [`H-M-H/Weylus`](https://github.com/H-M-H/Weylus)
+1. ⭐ Starred [`kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1`](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)
+2. ⭐ Starred [`journey-ad/sd-webui-bilingual-localization`](https://github.com/journey-ad/sd-webui-bilingual-localization)
+3. ⭐ Starred [`lobehub/sd-webui-lobe-theme`](https://github.com/lobehub/sd-webui-lobe-theme)
+4. ⭐ Starred [`SJTU-IPADS/PowerInfer`](https://github.com/SJTU-IPADS/PowerInfer)
+5. ⭐ Starred [`cumulo-autumn/StreamDiffusion`](https://github.com/cumulo-autumn/StreamDiffusion)
+6. ⭐ Starred [`BartoszJarocki/cv`](https://github.com/BartoszJarocki/cv)
+7. ⭐ Starred [`KRTirtho/spotube`](https://github.com/KRTirtho/spotube)
+8. ⭐ Starred [`myshell-ai/OpenVoice`](https://github.com/myshell-ai/OpenVoice)
+9. ⭐ Starred [`OwO-Network/DeepLX`](https://github.com/OwO-Network/DeepLX)
+10. ⭐ Starred [`movie-web/movie-web`](https://github.com/movie-web/movie-web)
 <!--RECENT_ACTIVITY:end-->
