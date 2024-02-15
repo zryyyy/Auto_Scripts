@@ -4,18 +4,18 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Wednesday, February 14th, 2024, 9:09:18 AM`
+Last Updated: `Thursday, February 15th, 2024, 9:08:47 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [`eryajf/Thanks-Mirror`](https://github.com/eryajf/Thanks-Mirror)
-2. ⭐ Starred [`louislam/dockge`](https://github.com/louislam/dockge)
-3. ⭐ Starred [`kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1`](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)
-4. ⭐ Starred [`journey-ad/sd-webui-bilingual-localization`](https://github.com/journey-ad/sd-webui-bilingual-localization)
-5. ⭐ Starred [`lobehub/sd-webui-lobe-theme`](https://github.com/lobehub/sd-webui-lobe-theme)
-6. ⭐ Starred [`SJTU-IPADS/PowerInfer`](https://github.com/SJTU-IPADS/PowerInfer)
-7. ⭐ Starred [`cumulo-autumn/StreamDiffusion`](https://github.com/cumulo-autumn/StreamDiffusion)
-8. ⭐ Starred [`BartoszJarocki/cv`](https://github.com/BartoszJarocki/cv)
-9. ⭐ Starred [`KRTirtho/spotube`](https://github.com/KRTirtho/spotube)
-10. ⭐ Starred [`myshell-ai/OpenVoice`](https://github.com/myshell-ai/OpenVoice)
+1. ⭐ Starred [`Rectify11/Installer`](https://github.com/Rectify11/Installer)
+2. ⭐ Starred [`excalidraw/excalidraw`](https://github.com/excalidraw/excalidraw)
+3. ⭐ Starred [`RVC-Boss/GPT-SoVITS`](https://github.com/RVC-Boss/GPT-SoVITS)
+4. ⭐ Starred [`TencentARC/PhotoMaker`](https://github.com/TencentARC/PhotoMaker)
+5. ⭐ Starred [`lyming99/wenznote`](https://github.com/lyming99/wenznote)
+6. ⭐ Starred [`xlucn/oh-my-foss-android`](https://github.com/xlucn/oh-my-foss-android)
+7. ⭐ Starred [`Mygod/VPNHotspot`](https://github.com/Mygod/VPNHotspot)
+8. ⭐ Starred [`eryajf/Thanks-Mirror`](https://github.com/eryajf/Thanks-Mirror)
+9. ⭐ Starred [`louislam/dockge`](https://github.com/louislam/dockge)
+10. ⭐ Starred [`kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1`](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)
 <!--RECENT_ACTIVITY:end-->
