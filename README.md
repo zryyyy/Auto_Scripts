@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Tuesday, June 18th, 2024, 9:18:03 AM`
+Last Updated: `Wednesday, June 19th, 2024, 9:18:07 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -16,5 +16,4 @@ Last Updated: `Tuesday, June 18th, 2024, 9:18:03 AM`
 6. ⭐ Starred [`radix-ui/themes`](https://github.com/radix-ui/themes)
 7. ⭐ Starred [`fslongjin/TextRecogn`](https://github.com/fslongjin/TextRecogn)
 8. ✌️ Released [8.2.1 20240513](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/releases/tag/8.2.1(20240513)) in [`zryyyy/Cisco-Packet-Tracer-Chinese`](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/releases/tag/8.2.1(20240513))
-9. ⭐ Starred [`XIU2/TrackersListCollection`](https://github.com/XIU2/TrackersListCollection)
 <!--RECENT_ACTIVITY:end-->
