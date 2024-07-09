@@ -4,7 +4,7 @@ Automated script testing project based on Github Actions
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Monday, July 8th, 2024, 9:20:33 AM`
+Last Updated: `Tuesday, July 9th, 2024, 9:19:34 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -15,5 +15,4 @@ Last Updated: `Monday, July 8th, 2024, 9:20:33 AM`
 5. ⭐ Starred [`shadow1ng/fscan`](https://github.com/shadow1ng/fscan)
 6. ⭐ Starred [`Celtoys/Remotery`](https://github.com/Celtoys/Remotery)
 7. ⭐ Starred [`radix-ui/themes`](https://github.com/radix-ui/themes)
-8. ⭐ Starred [`fslongjin/TextRecogn`](https://github.com/fslongjin/TextRecogn)
 <!--RECENT_ACTIVITY:end-->
