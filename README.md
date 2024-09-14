@@ -31,7 +31,7 @@ jobs:
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/zryyyy
+❗️ Opened issue #4470 in hiddify/Hiddify-Manager
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ```
@@ -39,7 +39,7 @@ jobs:
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-09-13T00:49:35Z</b>
+  <b>2024-09-14T00:48:47Z</b>
 </p>
 ```
 
@@ -50,7 +50,7 @@ jobs:
 ⭐️ 0  📦 DennyNo1/KnowledgeBase
 ```
 
-**Last Activity:** `Friday, September 13th 2024, 8:49:35 am`
+**Last Activity:** `Saturday, September 14th 2024, 8:48:47 am`
 
 
 
@@ -81,14 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6#issuecomment-2333069648) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
-2. 🔒 Closed issue [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
-3. 🗣 Commented on [#4](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/4#issuecomment-2323643229) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
-4. 🗣 Commented on [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6#issuecomment-2323638117) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
-5. 🗣 Commented on [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6#issuecomment-2323619125) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
-6. 🔓 Reopened issue [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
-7. 🗣 Commented on [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6#issuecomment-2323329707) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
-8. 🔒 Closed issue [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
 <!--END_SECTION:activity-->
 
 
@@ -140,20 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Friday, September 13th, 2024, 8:49:55 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-2. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-3. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-4. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-5. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-6. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-7. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-8. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-9. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-10. ⬆️ Pushed 5 commit(s) to [zryyyy/epicgames-freebies-claimer](https://github.com/zryyyy/epicgames-freebies-claimer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
