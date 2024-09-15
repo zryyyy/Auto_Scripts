@@ -30,8 +30,8 @@ jobs:
 
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
+🍴 Forked zryyyy/hexo-theme-nexmoe from theme-nexmoe/hexo-theme-nexmoe
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
-❗️ Opened issue #4470 in hiddify/Hiddify-Manager
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ```
@@ -39,7 +39,7 @@ jobs:
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-09-14T00:48:47Z</b>
+  <b>2024-09-15T00:55:35Z</b>
 </p>
 ```
 
@@ -50,7 +50,7 @@ jobs:
 ⭐️ 0  📦 DennyNo1/KnowledgeBase
 ```
 
-**Last Activity:** `Saturday, September 14th 2024, 8:48:47 am`
+**Last Activity:** `Sunday, September 15th 2024, 8:55:35 am`
 
 
 
@@ -81,13 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4470](https://github.com/hiddify/Hiddify-Manager/issues/4470) in [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)
-2. 🗣 Commented on [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6#issuecomment-2333069648) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
-3. 🔒 Closed issue [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
-4. 🗣 Commented on [#4](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/4#issuecomment-2323643229) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
-5. 🗣 Commented on [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6#issuecomment-2323638117) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
-6. 🗣 Commented on [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6#issuecomment-2323619125) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
-7. 🔓 Reopened issue [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
 <!--END_SECTION:activity-->
 
 
@@ -139,20 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Saturday, September 14th, 2024, 8:49:19 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-2. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-3. ❗️ Opened issue [#4470](https://github.com/hiddify/Hiddify-Manager/issues/4470) in [`hiddify/Hiddify-Manager`](https://github.com/hiddify/Hiddify-Manager/issues/4470)<br>
-4. ⭐ Starred [`SagerNet/sing-box`](https://github.com/SagerNet/sing-box)<br>
-5. ⭐ Starred [`GUI-for-Cores/GUI.for.SingBox`](https://github.com/GUI-for-Cores/GUI.for.SingBox)<br>
-6. ⭐ Starred [`hiddify/hiddify-next`](https://github.com/hiddify/hiddify-next)<br>
-7. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-8. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-9. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-10. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
