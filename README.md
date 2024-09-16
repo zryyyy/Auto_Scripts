@@ -81,6 +81,9 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#4470](https://github.com/hiddify/Hiddify-Manager/issues/4470) in [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)
+2. 🗣 Commented on [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6#issuecomment-2333069648) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
+3. 🔒 Closed issue [#6](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/issues/6) in [zryyyy/Cisco-Packet-Tracer-Chinese](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese)
 <!--END_SECTION:activity-->
 
 
