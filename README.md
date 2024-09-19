@@ -39,7 +39,7 @@ jobs:
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-09-18T00:49:44Z</b>
+  <b>2024-09-19T00:50:46Z</b>
 </p>
 ```
 
@@ -50,7 +50,7 @@ jobs:
 ⭐️ 0  📦 DennyNo1/KnowledgeBase
 ```
 
-**Last Activity:** `Wednesday, September 18th 2024, 8:49:44 am`
+**Last Activity:** `Thursday, September 19th 2024, 8:50:46 am`
 
 
 
@@ -81,7 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4470](https://github.com/hiddify/Hiddify-Manager/issues/4470) in [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)
 <!--END_SECTION:activity-->
 
 
@@ -133,20 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Wednesday, September 18th, 2024, 8:50:06 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-2. ⭐ Starred [`alienator88/Pearcleaner`](https://github.com/alienator88/Pearcleaner)<br>
-3. ⭐ Starred [`lainbo/component-party`](https://github.com/lainbo/component-party)<br>
-4. ⭐ Starred [`Uotan-Dev/UotanToolboxNT`](https://github.com/Uotan-Dev/UotanToolboxNT)<br>
-5. ⭐ Starred [`Lissy93/web-check`](https://github.com/Lissy93/web-check)<br>
-6. ⭐ Starred [`massgravel/Microsoft-Activation-Scripts`](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
-7. ⭐ Starred [`krahets/hello-algo`](https://github.com/krahets/hello-algo)<br>
-8. ⭐ Starred [`modelscope/DiffSynth-Studio`](https://github.com/modelscope/DiffSynth-Studio)<br>
-9. ⭐ Starred [`VikParuchuri/marker`](https://github.com/VikParuchuri/marker)<br>
-10. ⭐ Starred [`coollabsio/coolify`](https://github.com/coollabsio/coolify)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
