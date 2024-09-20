@@ -39,18 +39,18 @@ jobs:
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-09-19T00:50:46Z</b>
+  <b>2024-09-20T00:50:46Z</b>
 </p>
 ```
 
 ```
-⭐️ 27 📦 zryyyy/Cisco-Packet-Tracer-Chinese
+⭐️ 28 📦 zryyyy/Cisco-Packet-Tracer-Chinese
 ⭐️ 1  📦 zryyyy/AutoApiSecret
 ⭐️ 1  📦 zryyyy/AutoApiSR
 ⭐️ 0  📦 DennyNo1/KnowledgeBase
 ```
 
-**Last Activity:** `Thursday, September 19th 2024, 8:50:46 am`
+**Last Activity:** `Friday, September 20th 2024, 8:50:46 am`
 
 
 
@@ -81,7 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4470](https://github.com/hiddify/Hiddify-Manager/issues/4470) in [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)
 <!--END_SECTION:activity-->
 
 
@@ -133,20 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Thursday, September 19th, 2024, 8:51:09 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-2. ⭐ Starred [`balopez83/macOS_On_Hyper-V`](https://github.com/balopez83/macOS_On_Hyper-V)<br>
-3. ⭐ Starred [`acidanthera/MacHyperVSupport`](https://github.com/acidanthera/MacHyperVSupport)<br>
-4. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-5. ⭐ Starred [`chengfengfengwang/lingo-link`](https://github.com/chengfengfengwang/lingo-link)<br>
-6. ⭐ Starred [`MlgmXyysd/Xiaomi-BootLoader-Questionnaire`](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire)<br>
-7. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-8. ⭐ Starred [`alienator88/Pearcleaner`](https://github.com/alienator88/Pearcleaner)<br>
-9. ⭐ Starred [`lainbo/component-party`](https://github.com/lainbo/component-party)<br>
-10. ⭐ Starred [`Uotan-Dev/UotanToolboxNT`](https://github.com/Uotan-Dev/UotanToolboxNT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
