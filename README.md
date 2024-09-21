@@ -39,7 +39,7 @@ jobs:
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-09-20T00:50:46Z</b>
+  <b>2024-09-21T00:49:39Z</b>
 </p>
 ```
 
@@ -50,7 +50,7 @@ jobs:
 ⭐️ 0  📦 DennyNo1/KnowledgeBase
 ```
 
-**Last Activity:** `Friday, September 20th 2024, 8:50:46 am`
+**Last Activity:** `Saturday, September 21st 2024, 8:49:39 am`
 
 
 
@@ -81,7 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4470](https://github.com/hiddify/Hiddify-Manager/issues/4470) in [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)
 <!--END_SECTION:activity-->
 
 
@@ -133,20 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Friday, September 20th, 2024, 8:51:10 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-2. ⭐ Starred [`marticliment/UniGetUI`](https://github.com/marticliment/UniGetUI)<br>
-3. ⭐ Starred [`PhrozenIO/Arcane`](https://github.com/PhrozenIO/Arcane)<br>
-4. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-5. 📔 Created new repository [`zryyyy/dotfiles`](https://github.com/zryyyy/dotfiles)<br>
-6. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-7. ⭐ Starred [`balopez83/macOS_On_Hyper-V`](https://github.com/balopez83/macOS_On_Hyper-V)<br>
-8. ⭐ Starred [`acidanthera/MacHyperVSupport`](https://github.com/acidanthera/MacHyperVSupport)<br>
-9. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-10. ⭐ Starred [`chengfengfengwang/lingo-link`](https://github.com/chengfengfengwang/lingo-link)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
