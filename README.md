@@ -30,27 +30,27 @@ jobs:
 
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/zryyyy
+⬆️ Pushed 1 commit to zryyyy/CDN
+⬆️ Pushed 7 commits to zryyyy/waline
+⬆️ Pushed 1 commit to zryyyy/CDN
+⬆️ Pushed 1 commit to zryyyy/CDN
 ```
 
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-09-21T00:49:39Z</b>
+  <b>2024-09-22T00:55:51Z</b>
 </p>
 ```
 
 ```
-⭐️ 28 📦 zryyyy/Cisco-Packet-Tracer-Chinese
+⭐️ 29 📦 zryyyy/Cisco-Packet-Tracer-Chinese
 ⭐️ 1  📦 zryyyy/AutoApiSecret
 ⭐️ 1  📦 zryyyy/AutoApiSR
 ⭐️ 0  📦 DennyNo1/KnowledgeBase
 ```
 
-**Last Activity:** `Saturday, September 21st 2024, 8:49:39 am`
+**Last Activity:** `Sunday, September 22nd 2024, 8:55:51 am`
 
 
 
@@ -81,7 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4470](https://github.com/hiddify/Hiddify-Manager/issues/4470) in [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)
 <!--END_SECTION:activity-->
 
 
@@ -133,20 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Saturday, September 21st, 2024, 8:50:01 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-2. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-3. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-4. ⭐ Starred [`marticliment/UniGetUI`](https://github.com/marticliment/UniGetUI)<br>
-5. ⭐ Starred [`PhrozenIO/Arcane`](https://github.com/PhrozenIO/Arcane)<br>
-6. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-7. 📔 Created new repository [`zryyyy/dotfiles`](https://github.com/zryyyy/dotfiles)<br>
-8. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-9. ⭐ Starred [`balopez83/macOS_On_Hyper-V`](https://github.com/balopez83/macOS_On_Hyper-V)<br>
-10. ⭐ Starred [`acidanthera/MacHyperVSupport`](https://github.com/acidanthera/MacHyperVSupport)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
