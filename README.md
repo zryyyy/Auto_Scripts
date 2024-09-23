@@ -30,27 +30,27 @@ jobs:
 
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/CDN
-⬆️ Pushed 7 commits to zryyyy/waline
-⬆️ Pushed 1 commit to zryyyy/CDN
-⬆️ Pushed 1 commit to zryyyy/CDN
+⬆️ Pushed 1 commit to zryyyy/dotfiles
+⬆️ Pushed 2 commits to zryyyy/hexo-test
+⬆️ Pushed 2 commits to zryyyy/hexo-test
+⬆️ Pushed 1 commit to zryyyy/zryyyy
 ```
 
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-09-22T00:55:51Z</b>
+  <b>2024-09-23T00:52:25Z</b>
 </p>
 ```
 
 ```
-⭐️ 29 📦 zryyyy/Cisco-Packet-Tracer-Chinese
+⭐️ 30 📦 zryyyy/Cisco-Packet-Tracer-Chinese
 ⭐️ 1  📦 zryyyy/AutoApiSecret
 ⭐️ 1  📦 zryyyy/AutoApiSR
 ⭐️ 0  📦 DennyNo1/KnowledgeBase
 ```
 
-**Last Activity:** `Sunday, September 22nd 2024, 8:55:51 am`
+**Last Activity:** `Monday, September 23rd 2024, 8:52:25 am`
 
 
 
@@ -81,8 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/DiamondHunters/NodeInject_Hook_example/issues/1#issuecomment-2365177890) in [DiamondHunters/NodeInject_Hook_example](https://github.com/DiamondHunters/NodeInject_Hook_example)
-2. ❗ Opened issue [#4470](https://github.com/hiddify/Hiddify-Manager/issues/4470) in [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)
 <!--END_SECTION:activity-->
 
 
@@ -134,20 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Sunday, September 22nd, 2024, 8:56:13 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-2. ⬆️ Pushed 1 commit(s) to [zryyyy/CDN](https://github.com/zryyyy/CDN)<br>
-3. ⬆️ Pushed 7 commit(s) to [zryyyy/waline](https://github.com/zryyyy/waline)<br>
-4. ⬆️ Pushed 1 commit(s) to [zryyyy/CDN](https://github.com/zryyyy/CDN)<br>
-5. ⬆️ Pushed 1 commit(s) to [zryyyy/CDN](https://github.com/zryyyy/CDN)<br>
-6. 🔱 Forked [zryyyy/hexo-theme-volantis](https://github.com/zryyyy/hexo-theme-volantis) from [`volantis-x/hexo-theme-volantis`](https://github.com/zryyyy/hexo-theme-volantis)<br>
-7. ⬆️ Pushed 19 commit(s) to [zryyyy/hexo-theme-volantis](https://github.com/zryyyy/hexo-theme-volantis)<br>
-8. 💬 Commented on [#1](https://github.com/DiamondHunters/NodeInject_Hook_example/issues/1#issuecomment-2365177890) in [`DiamondHunters/NodeInject_Hook_example`](https://github.com/DiamondHunters/NodeInject_Hook_example/issues/1#issuecomment-2365177890)<br>
-9. ⭐ Starred [`icon11-community/Folder11`](https://github.com/icon11-community/Folder11)<br>
-10. ⬆️ Pushed 1 commit(s) to [zryyyy/NodeInject_Hook_example](https://github.com/zryyyy/NodeInject_Hook_example)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
