@@ -29,7 +29,7 @@ jobs:
 #### Example
 
 ```
-⬆️ Pushed 1 commit to zryyyy/dotfiles
+⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/dotfiles
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -39,18 +39,18 @@ jobs:
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-09-24T00:52:08Z</b>
+  <b>2024-09-25T00:52:58Z</b>
 </p>
 ```
 
 ```
-⭐️ 30 📦 zryyyy/Cisco-Packet-Tracer-Chinese
+⭐️ 32 📦 zryyyy/Cisco-Packet-Tracer-Chinese
 ⭐️ 1  📦 zryyyy/AutoApiSecret
 ⭐️ 1  📦 zryyyy/AutoApiSR
 ⭐️ 0  📦 DennyNo1/KnowledgeBase
 ```
 
-**Last Activity:** `Tuesday, September 24th 2024, 8:52:08 am`
+**Last Activity:** `Wednesday, September 25th 2024, 8:52:58 am`
 
 
 
@@ -81,9 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#926](https://github.com/volantis-x/hexo-theme-volantis/pull/926) in [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis)
-2. 🗣 Commented on [#1](https://github.com/DiamondHunters/NodeInject_Hook_example/issues/1#issuecomment-2365177890) in [DiamondHunters/NodeInject_Hook_example](https://github.com/DiamondHunters/NodeInject_Hook_example)
-3. ❗ Opened issue [#4470](https://github.com/hiddify/Hiddify-Manager/issues/4470) in [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)
 <!--END_SECTION:activity-->
 
 
@@ -135,20 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Tuesday, September 24th, 2024, 8:52:35 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [zryyyy/dotfiles](https://github.com/zryyyy/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-3. ⭐ Starred [`subframe7536/maple-font`](https://github.com/subframe7536/maple-font)<br>
-4. ⬆️ Pushed 1 commit(s) to [zryyyy/dotfiles](https://github.com/zryyyy/dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-6. ⬆️ Pushed 1 commit(s) to [zryyyy/dotfiles](https://github.com/zryyyy/dotfiles)<br>
-7. ⬆️ Pushed 2 commit(s) to [zryyyy/hexo-test](https://github.com/zryyyy/hexo-test)<br>
-8. ⬆️ Pushed 2 commit(s) to [zryyyy/hexo-test](https://github.com/zryyyy/hexo-test)<br>
-9. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-10. 💪 Opened PR [#926](https://github.com/volantis-x/hexo-theme-volantis/pull/926) in [`volantis-x/hexo-theme-volantis`](https://github.com/volantis-x/hexo-theme-volantis/pull/926)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
