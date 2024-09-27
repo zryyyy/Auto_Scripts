@@ -29,17 +29,17 @@ jobs:
 #### Example
 
 ```
+⬆️ Pushed 2 commits to zryyyy/hexo-theme-volantis
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/Nerd-Font-Patcher
-⬆️ Pushed 1 commit to zryyyy/Nerd-Font-Patcher
-⬆️ Pushed 1 commit to zryyyy/Nerd-Font-Patcher
-⬆️ Pushed 1 commit to zryyyy/Nerd-Font-Patcher
+🗣 Commented on #4 in lxgw/LxgwWenkaiGB
+🗣 Commented on #4 in lxgw/LxgwWenkaiGB
 ```
 
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-09-26T00:51:43Z</b>
+  <b>2024-09-27T00:52:04Z</b>
 </p>
 ```
 
@@ -47,10 +47,10 @@ jobs:
 ⭐️ 33 📦 zryyyy/Cisco-Packet-Tracer-Chinese
 ⭐️ 1  📦 zryyyy/AutoApiSecret
 ⭐️ 1  📦 zryyyy/AutoApiSR
-⭐️ 0  📦 DennyNo1/KnowledgeBase
+⭐️ 1  📦 zryyyy/Nerd-Font-Patcher
 ```
 
-**Last Activity:** `Thursday, September 26th 2024, 8:51:43 am`
+**Last Activity:** `Friday, September 27th 2024, 8:52:04 am`
 
 
 
@@ -81,9 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#926](https://github.com/volantis-x/hexo-theme-volantis/pull/926) in [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis)
-2. 🗣 Commented on [#1](https://github.com/DiamondHunters/NodeInject_Hook_example/issues/1#issuecomment-2365177890) in [DiamondHunters/NodeInject_Hook_example](https://github.com/DiamondHunters/NodeInject_Hook_example)
-3. ❗ Opened issue [#4470](https://github.com/hiddify/Hiddify-Manager/issues/4470) in [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)
 <!--END_SECTION:activity-->
 
 
@@ -135,20 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Thursday, September 26th, 2024, 8:52:11 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-2. ⬆️ Pushed 1 commit(s) to [zryyyy/Nerd-Font-Patcher](https://github.com/zryyyy/Nerd-Font-Patcher)<br>
-3. ⬆️ Pushed 1 commit(s) to [zryyyy/Nerd-Font-Patcher](https://github.com/zryyyy/Nerd-Font-Patcher)<br>
-4. ⬆️ Pushed 1 commit(s) to [zryyyy/Nerd-Font-Patcher](https://github.com/zryyyy/Nerd-Font-Patcher)<br>
-5. ⬆️ Pushed 1 commit(s) to [zryyyy/Nerd-Font-Patcher](https://github.com/zryyyy/Nerd-Font-Patcher)<br>
-6. ⬆️ Pushed 1 commit(s) to [zryyyy/SF-Mono-Nerd-Font](https://github.com/zryyyy/SF-Mono-Nerd-Font)<br>
-7. ⬆️ Pushed 1 commit(s) to [zryyyy/SF-Mono-Nerd-Font](https://github.com/zryyyy/SF-Mono-Nerd-Font)<br>
-8. ⬆️ Pushed 1 commit(s) to [zryyyy/SF-Mono-Nerd-Font](https://github.com/zryyyy/SF-Mono-Nerd-Font)<br>
-9. ⬆️ Pushed 1 commit(s) to [zryyyy/SF-Mono-Nerd-Font](https://github.com/zryyyy/SF-Mono-Nerd-Font)<br>
-10. ⬆️ Pushed 1 commit(s) to [zryyyy/SF-Mono-Nerd-Font](https://github.com/zryyyy/SF-Mono-Nerd-Font)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
