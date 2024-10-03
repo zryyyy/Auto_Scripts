@@ -39,7 +39,7 @@ jobs:
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-10-02T00:52:15Z</b>
+  <b>2024-10-03T00:52:16Z</b>
 </p>
 ```
 
@@ -50,7 +50,7 @@ jobs:
 ⭐️ 1  📦 zryyyy/Nerd-Font-Patcher
 ```
 
-**Last Activity:** `Wednesday, October 2nd 2024, 8:52:15 am`
+**Last Activity:** `Thursday, October 3rd 2024, 8:52:16 am`
 
 
 
@@ -81,13 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/lxgw/LxgwWenkaiGB/issues/4#issuecomment-2376328313) in [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB)
-2. 🗣 Commented on [#4](https://github.com/lxgw/LxgwWenkaiGB/issues/4#issuecomment-2376265251) in [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB)
-3. 🗣 Commented on [#148](https://github.com/lxgw/LxgwWenKai/issues/148#issuecomment-2376177117) in [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-4. 🗣 Commented on [#148](https://github.com/lxgw/LxgwWenKai/issues/148#issuecomment-2375892925) in [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-5. ❗ Opened issue [#148](https://github.com/lxgw/LxgwWenKai/issues/148) in [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-6. 💪 Opened PR [#926](https://github.com/volantis-x/hexo-theme-volantis/pull/926) in [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis)
-7. 🗣 Commented on [#1](https://github.com/DiamondHunters/NodeInject_Hook_example/issues/1#issuecomment-2365177890) in [DiamondHunters/NodeInject_Hook_example](https://github.com/DiamondHunters/NodeInject_Hook_example)
 <!--END_SECTION:activity-->
 
 
@@ -139,20 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Wednesday, October 2nd, 2024, 8:52:42 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-2. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-3. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-4. ⭐ Starred [`EveSunMaple/Frosti`](https://github.com/EveSunMaple/Frosti)<br>
-5. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-6. ⭐ Starred [`gitbutlerapp/gitbutler`](https://github.com/gitbutlerapp/gitbutler)<br>
-7. ⭐ Starred [`actuallymentor/battery`](https://github.com/actuallymentor/battery)<br>
-8. ⭐ Starred [`XInTheDark/raycast-g4f`](https://github.com/XInTheDark/raycast-g4f)<br>
-9. ⭐ Starred [`context-labs/mactop`](https://github.com/context-labs/mactop)<br>
-10. ⭐ Starred [`CodeEditApp/CodeEdit`](https://github.com/CodeEditApp/CodeEdit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
