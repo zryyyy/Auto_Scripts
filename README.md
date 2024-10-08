@@ -39,7 +39,7 @@ jobs:
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-10-07T00:54:02Z</b>
+  <b>2024-10-08T00:52:05Z</b>
 </p>
 ```
 
@@ -50,7 +50,7 @@ jobs:
 ⭐️ 1  📦 zryyyy/Nerd-Font-Patcher
 ```
 
-**Last Activity:** `Monday, October 7th 2024, 8:54:02 am`
+**Last Activity:** `Tuesday, October 8th 2024, 8:52:05 am`
 
 
 
@@ -81,13 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/lxgw/LxgwWenkaiGB/issues/4#issuecomment-2376328313) in [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB)
-2. 🗣 Commented on [#4](https://github.com/lxgw/LxgwWenkaiGB/issues/4#issuecomment-2376265251) in [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB)
-3. 🗣 Commented on [#148](https://github.com/lxgw/LxgwWenKai/issues/148#issuecomment-2376177117) in [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-4. 🗣 Commented on [#148](https://github.com/lxgw/LxgwWenKai/issues/148#issuecomment-2375892925) in [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-5. ❗ Opened issue [#148](https://github.com/lxgw/LxgwWenKai/issues/148) in [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-6. 💪 Opened PR [#926](https://github.com/volantis-x/hexo-theme-volantis/pull/926) in [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis)
-7. 🗣 Commented on [#1](https://github.com/DiamondHunters/NodeInject_Hook_example/issues/1#issuecomment-2365177890) in [DiamondHunters/NodeInject_Hook_example](https://github.com/DiamondHunters/NodeInject_Hook_example)
 <!--END_SECTION:activity-->
 
 
@@ -139,20 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Monday, October 7th, 2024, 8:54:27 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-2. ⭐ Starred [`zed-industries/zed`](https://github.com/zed-industries/zed)<br>
-3. ⭐ Starred [`ripperhe/Bob`](https://github.com/ripperhe/Bob)<br>
-4. ⭐ Starred [`YiNNx/cmd-wrapped`](https://github.com/YiNNx/cmd-wrapped)<br>
-5. ⭐ Starred [`Ranchero-Software/NetNewsWire`](https://github.com/Ranchero-Software/NetNewsWire)<br>
-6. ⭐ Starred [`apvarun/graphize`](https://github.com/apvarun/graphize)<br>
-7. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-8. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-9. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-10. ⭐ Starred [`Bistutu/GoMusic`](https://github.com/Bistutu/GoMusic)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
