@@ -39,7 +39,7 @@ jobs:
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-10-09T00:51:53Z</b>
+  <b>2024-10-10T00:51:59Z</b>
 </p>
 ```
 
@@ -50,7 +50,7 @@ jobs:
 ⭐️ 1  📦 zryyyy/Nerd-Font-Patcher
 ```
 
-**Last Activity:** `Wednesday, October 9th 2024, 8:51:53 am`
+**Last Activity:** `Thursday, October 10th 2024, 8:51:59 am`
 
 
 
@@ -81,11 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/lxgw/LxgwWenkaiGB/issues/4#issuecomment-2376328313) in [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB)
-2. 🗣 Commented on [#4](https://github.com/lxgw/LxgwWenkaiGB/issues/4#issuecomment-2376265251) in [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB)
-3. 🗣 Commented on [#148](https://github.com/lxgw/LxgwWenKai/issues/148#issuecomment-2376177117) in [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-4. 🗣 Commented on [#148](https://github.com/lxgw/LxgwWenKai/issues/148#issuecomment-2375892925) in [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-5. ❗ Opened issue [#148](https://github.com/lxgw/LxgwWenKai/issues/148) in [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 <!--END_SECTION:activity-->
 
 
@@ -137,20 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: `Wednesday, October 9th, 2024, 8:52:16 AM`
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [`Schlaubischlump/LocationSimulator`](https://github.com/Schlaubischlump/LocationSimulator)<br>
-2. ⭐ Starred [`npmgraph/npmgraph`](https://github.com/npmgraph/npmgraph)<br>
-3. ⭐ Starred [`ActivityWatch/activitywatch`](https://github.com/ActivityWatch/activitywatch)<br>
-4. ⭐ Starred [`scottbez1/smartknob`](https://github.com/scottbez1/smartknob)<br>
-5. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-6. ⭐ Starred [`type-challenges/type-challenges`](https://github.com/type-challenges/type-challenges)<br>
-7. ⭐ Starred [`necolas/normalize.css`](https://github.com/necolas/normalize.css)<br>
-8. ⬆️ Pushed 1 commit(s) to [zryyyy/zryyyy](https://github.com/zryyyy/zryyyy)<br>
-9. ⭐ Starred [`devv-ai/devv`](https://github.com/devv-ai/devv)<br>
-10. ⭐ Starred [`imgly/background-removal-js`](https://github.com/imgly/background-removal-js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
