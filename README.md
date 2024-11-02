@@ -81,6 +81,8 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#799](https://github.com/sickcodes/Docker-OSX/issues/799#issuecomment-2432735792) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+2. 🚀 Published release [Release](https://github.com/zryyyy/NodeInject_Hook_example/releases/tag/2024) in [zryyyy/NodeInject_Hook_example](https://github.com/zryyyy/NodeInject_Hook_example)
 <!--END_SECTION:activity-->
 
 
