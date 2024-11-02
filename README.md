@@ -29,28 +29,28 @@ jobs:
 #### Example
 
 ```
-⬆️ Pushed 1 commit to zryyyy/Auto_Scripts
-⬆️ Pushed 1 commit to zryyyy/Auto_Scripts
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/Auto_Scripts
+⬆️ Pushed 1 commit to zryyyy/zryyyy
+⬆️ Pushed 1 commit to zryyyy/zryyyy
+⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ```
 
 ```
 <p align="center">
   Last refresh: 
-  <b>2024-09-07T16:29:30Z</b>
+  <b>2024-11-02T00:51:57Z</b>
 </p>
 ```
 
 ```
-⭐️ 26 📦 zryyyy/Cisco-Packet-Tracer-Chinese
+⭐️ 43 📦 zryyyy/Cisco-Packet-Tracer-Chinese
 ⭐️ 1  📦 zryyyy/AutoApiSecret
 ⭐️ 1  📦 zryyyy/AutoApiSR
-⭐️ 0  📦 DennyNo1/KnowledgeBase
+⭐️ 1  📦 zryyyy/Nerd-Font-Patcher
 ```
 
-**Last Activity:** `Sunday, September 8th 2024, 12:29:30`
+**Last Activity:** `Saturday, November 2nd 2024, 8:51:57 am`
 
 
 
@@ -81,7 +81,6 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 
@@ -133,11 +132,9 @@ jobs:
 #### Example
 
 <!--RECENT_ACTIVITY:last_update-->
-
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-
 <!--RECENT_ACTIVITY:end-->
 
 
