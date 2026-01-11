@@ -81,6 +81,8 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#3163](https://github.com/immersive-translate/immersive-translate/issues/3163#issuecomment-3729010170) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
+2. 🗣 Commented on [#3163](https://github.com/immersive-translate/immersive-translate/issues/3163#issuecomment-3686430178) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
 <!--END_SECTION:activity-->
 
 
