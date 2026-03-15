@@ -81,6 +81,7 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Archive](https://github.com/zryyyy/bing-wallpaper/releases/tag/archive) in [zryyyy/bing-wallpaper](https://github.com/zryyyy/bing-wallpaper)
 <!--END_SECTION:activity-->
 
 
