@@ -81,6 +81,11 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2491](https://github.com/wxt-dev/wxt/issues/2491#issuecomment-4952975079) in [wxt-dev/wxt](https://github.com/wxt-dev/wxt)
+2. 🗣 Commented on [#2491](https://github.com/wxt-dev/wxt/issues/2491#issuecomment-4949334078) in [wxt-dev/wxt](https://github.com/wxt-dev/wxt)
+3. 🗣 Commented on [#2491](https://github.com/wxt-dev/wxt/issues/2491#issuecomment-4948423390) in [wxt-dev/wxt](https://github.com/wxt-dev/wxt)
+4. ℹ️ Labeled issue [#2491](https://github.com/wxt-dev/wxt/issues/2491) in [wxt-dev/wxt](https://github.com/wxt-dev/wxt)
+5. ❗ Opened issue [#2491](https://github.com/wxt-dev/wxt/issues/2491) in [wxt-dev/wxt](https://github.com/wxt-dev/wxt)
 <!--END_SECTION:activity-->
 
 
