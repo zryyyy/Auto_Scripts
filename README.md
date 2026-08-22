@@ -81,6 +81,9 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#675](https://github.com/anmol098/waka-readme-stats/pull/675) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. 💪 Opened PR [#675](https://github.com/anmol098/waka-readme-stats/pull/675) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+3. 🎉 Merged PR [#654](https://github.com/anmol098/waka-readme-stats/pull/654) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 
