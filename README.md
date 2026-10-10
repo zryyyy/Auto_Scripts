@@ -81,6 +81,8 @@ jobs:
 #### Example
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2644](https://github.com/wxt-dev/wxt/pull/2644) in [wxt-dev/wxt](https://github.com/wxt-dev/wxt)
+2. 💪 Opened PR [#2644](https://github.com/wxt-dev/wxt/pull/2644) in [wxt-dev/wxt](https://github.com/wxt-dev/wxt)
 <!--END_SECTION:activity-->
 
 
